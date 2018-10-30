@@ -1,0 +1,35 @@
+div.media {
+}
+    div.media div.media-main {
+    }
+        div.media div.media-main img {    
+        }
+    div.media div.thumbs {
+    }
+        div.media div.thumbs ul {
+        }
+            div.media div.thumbs li {
+            }
+                div.media div.thumbs li a {
+                }
+                    div.media div.thumbs li a img {
+					}           
+            
+
+    div.media ul.paginator {
+    }
+        div.media ul.paginator li {
+        }
+            div.media ul.paginator li.next {
+            }
+            div.media ul.paginator li a {
+            }
+                div.media ul.paginator li.next a {
+                }
+                    div.media ul.paginator li a:hover, 
+                    div.media ul.paginator li a.disabled {
+                    }
+                        div.media ul.paginator li.next a:hover, 
+                        div.media ul.paginator li.next a.disabled {
+                        }
+    

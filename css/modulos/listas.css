@@ -1,0 +1,34 @@
+/* listing list type */
+
+ul.listing {
+}
+	ul.listing li {
+	}
+	    ul.listing li.noImg {
+	    }
+	    ul.listing li:hover {
+	        cursor: pointer;
+	    }
+	    ul.listing li.hover {
+	        cursor: pointer;
+	    }
+		ul.listing li h3 {
+		}
+			ul.listing li h3 a {
+			}
+        ul.listing li p {
+		}
+		ul.listing li div.img {
+        }
+            ul.listing li.noImg div.img {
+                display: none;
+            }
+            ul.listing li div.img img {
+            }
+                
+
+            
+            
+            
+            
+            
